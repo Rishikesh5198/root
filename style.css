@@ -1,0 +1,26 @@
+.shivi
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    float: left;
+    background-color: beige;
+    min-height: 200px;
+    margin: 20px;
+    padding: 20px;
+    width: 230px;
+    border: 2px solid black;
+
+}
+.maher
+{
+    color: cadetblue;
+    padding-top: 65px;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cadetblue;
+    
+}
